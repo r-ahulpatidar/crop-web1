@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crop-web1/static/css/main.654e8c92.css",
-    "main.js": "/crop-web1/static/js/main.9e5a1a5d.js",
+    "main.js": "/crop-web1/static/js/main.f9597cf2.js",
     "static/media/crop-image.jpg": "/crop-web1/static/media/crop-image.cdabcc007d9ee3adce54.jpg",
     "static/media/Wheat2.jpg": "/crop-web1/static/media/Wheat2.551be3d23614660df0d5.jpg",
     "static/media/crop-image3.jpg": "/crop-web1/static/media/crop-image3.eaea3da6ce81d4ecf6da.jpg",
@@ -14,10 +14,10 @@
     "static/media/Rice-farm.jpg": "/crop-web1/static/media/Rice-farm.f20cc1f1bf479b86bbce.jpg",
     "index.html": "/crop-web1/index.html",
     "main.654e8c92.css.map": "/crop-web1/static/css/main.654e8c92.css.map",
-    "main.9e5a1a5d.js.map": "/crop-web1/static/js/main.9e5a1a5d.js.map"
+    "main.f9597cf2.js.map": "/crop-web1/static/js/main.f9597cf2.js.map"
   },
   "entrypoints": [
     "static/css/main.654e8c92.css",
-    "static/js/main.9e5a1a5d.js"
+    "static/js/main.f9597cf2.js"
   ]
 }
