@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crop-web1/static/css/main.654e8c92.css",
+    "main.js": "/crop-web1/static/js/main.9e5a1a5d.js",
+    "static/media/crop-image.jpg": "/crop-web1/static/media/crop-image.cdabcc007d9ee3adce54.jpg",
+    "static/media/Wheat2.jpg": "/crop-web1/static/media/Wheat2.551be3d23614660df0d5.jpg",
+    "static/media/crop-image3.jpg": "/crop-web1/static/media/crop-image3.eaea3da6ce81d4ecf6da.jpg",
+    "static/media/crop-image2.jpg": "/crop-web1/static/media/crop-image2.4d0811be1d939c56fb7e.jpg",
+    "static/media/crop-image4.jpg": "/crop-web1/static/media/crop-image4.875e23a25115b3135f48.jpg",
+    "static/media/Rice-farm2.jpg": "/crop-web1/static/media/Rice-farm2.775d132d53f155b9be4c.jpg",
+    "static/media/Rabi2.jpg": "/crop-web1/static/media/Rabi2.fc9f0d4ecea302267a14.jpg",
+    "static/media/Rabi3.jpeg": "/crop-web1/static/media/Rabi3.96d7dc82fa8f952e0ecc.jpeg",
+    "static/media/rabi1.jpg": "/crop-web1/static/media/rabi1.598279d748113487cc8c.jpg",
+    "static/media/Rice-farm.jpg": "/crop-web1/static/media/Rice-farm.f20cc1f1bf479b86bbce.jpg",
+    "index.html": "/crop-web1/index.html",
+    "main.654e8c92.css.map": "/crop-web1/static/css/main.654e8c92.css.map",
+    "main.9e5a1a5d.js.map": "/crop-web1/static/js/main.9e5a1a5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654e8c92.css",
+    "static/js/main.9e5a1a5d.js"
+  ]
+}
